@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Events Platform (Next.js + MySQL)
 
 Simple events app:
@@ -18,6 +17,3 @@ Simple events app:
 
 ## Environment Variables
 Copy `.env.example` to `.env.local` and fill in values:
-=======
-# events-app-mysql
->>>>>>> 80187a288831e99cd42bcf5e50a4cf826cd4b777

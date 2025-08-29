@@ -13,7 +13,7 @@ Simple events app:
 
 ## Prerequisites
 - Node.js 18+
-- MySQL 8 (local or hosted: PlanetScale / Railway / RDS)
+- MySQL 8 (local)
 
 ## Environment Variables
 Copy `.env.example` to `.env.local` and fill in values:
